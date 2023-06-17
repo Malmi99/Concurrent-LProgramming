@@ -1,0 +1,39 @@
+Current paperLevel: 250--> So All students Have completed printing. No need to refill again
+Checking toner>>>>> No need to refill toner anymore. Current Toner Level is 500
+[Emma][document1][19 pages]-Successfully printed the document. New Paper Level is 231 and Toner Level is 481.
+[Mary][document1][18 pages]-Successfully printed the document. New Paper Level is 213 and Toner Level is 463.
+[Wiki][document1][5 pages]-Successfully printed the document. New Paper Level is 208 and Toner Level is 458.
+[Mike][document1][14 pages]-Successfully printed the document. New Paper Level is 194 and Toner Level is 444.
+[Wiki][document2][4 pages]-Successfully printed the document. New Paper Level is 190 and Toner Level is 440.
+[Emma][document2][6 pages]-Successfully printed the document. New Paper Level is 184 and Toner Level is 434.
+[Wiki][document3][17 pages]-Successfully printed the document. New Paper Level is 167 and Toner Level is 417.
+[Mary][document2][20 pages]-Successfully printed the document. New Paper Level is 147 and Toner Level is 397.
+[Emma][document3][12 pages]-Successfully printed the document. New Paper Level is 135 and Toner Level is 385.
+[Mike][document2][11 pages]-Successfully printed the document. New Paper Level is 124 and Toner Level is 374.
+[Mike][document3][18 pages]-Successfully printed the document. New Paper Level is 106 and Toner Level is 356.
+[Wiki][document4][16 pages]-Successfully printed the document. New Paper Level is 90 and Toner Level is 340.
+[Mary][document3][5 pages]-Successfully printed the document. New Paper Level is 85 and Toner Level is 335.
+[Emma][document4][13 pages]-Successfully printed the document. New Paper Level is 72 and Toner Level is 322.
+[Mary][document4][8 pages]-Successfully printed the document. New Paper Level is 64 and Toner Level is 314.
+[Mike][document4][3 pages]-Successfully printed the document. New Paper Level is 61 and Toner Level is 311.
+[Emma][document5][16 pages]-Successfully printed the document. New Paper Level is 45 and Toner Level is 295.
+[Mike][document5][12 pages]-Successfully printed the document. New Paper Level is 33 and Toner Level is 283.
+[Mary][document5][6 pages]-Successfully printed the document. New Paper Level is 27 and Toner Level is 277.
+[Wiki][document5][2 pages]-Successfully printed the document. New Paper Level is 25 and Toner Level is 275.
+Wiki------ finished printing:5 Documents,44 Pages
+Emma------ finished printing:5 Documents,66 Pages
+Mike------ finished printing:5 Documents,58 Pages
+Mary------ finished printing:5 Documents,57 Pages
+Checking papers>>>>>>>>Refilling printer with paper
+Paper Technician Refilled Tray With Pack of Paper Successfully. New Paper level: 75 pack of paper used: 
+Checking toner>>>>> No need to refill toner anymore. Current Toner Level is 275
+Checking papers>>>>>>>>Refilling printer with paper
+Paper Technician Refilled Tray With Pack of Paper Successfully. New Paper level: 125 pack of paper used: 
+Checking toner>>>>> No need to refill toner anymore. Current Toner Level is 275
+Paper Technician PaperTech finished attempts to refill printer with paper packs.
+Toner Technician finished attempts to replace toner cartridges.
+EXECUTION COMPLETED
+********************************************PRINTING SYSTEM SUMMARY*************************************************
+LaserPrinter{PrinterID: 'HP Printer', Paper Level: 125, Toner Level: 275, Documents Printed: 20}
+
+Process finished with exit code 0
